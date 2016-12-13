@@ -1,0 +1,8 @@
+Django==1.10.4
+MySQL-python==1.2.5
+Unidecode==0.04.19
+argparse==1.2.1
+markovify==0.5.2
+mod-wsgi==4.5.10
+nltk==3.2.1
+wsgiref==0.1.2
