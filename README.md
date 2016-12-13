@@ -11,7 +11,7 @@ Edit `settings.py.dist` and rename to `settings.py`.
 Create a virtualenv named `ve`:
 `virtualenv ve`
 
-Install ''mod_wsgi'':
+Install _mod_wsgi_:
 `apt-get install libapache2-mod-wsgi`
 
 Install the Vhost:
